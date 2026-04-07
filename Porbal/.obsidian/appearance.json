@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Underwater",
+  "enabledCssSnippets": [
+    "Background",
+    "CodeBlock",
+    "Colored Sidebar Items"
+  ],
+  "interfaceFontFamily": "Comic Sans MS,Webdings",
+  "textFontFamily": "Comic Sans MS,Wingdings",
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 22,
+  "accentColor": "",
+  "theme": "obsidian",
+  "showRibbon": true
+}

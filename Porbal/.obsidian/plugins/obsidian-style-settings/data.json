@@ -1,0 +1,17 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-chocolate-topaz",
+  "blue-topaz-theme@@rainbow-checklist": true,
+  "blue-topaz-theme@@simple-p-kanban": false,
+  "blue-topaz-theme@@colorful-p-kanban": true,
+  "underwater-theme@@underwater-colors-dark": "rose-pine",
+  "underwater-theme@@underwater-colors-light": "everforest-light",
+  "underwater-theme@@tokei-plugin": false,
+  "underwater-theme@@h2-color": "#4EC3DE",
+  "underwater-theme@@h1-color": "var(--foam)",
+  "underwater-theme@@inline-title-color": "var(--rose)",
+  "underwater-theme@@h3-color": "#7085E0",
+  "underwater-theme@@h4-color": "#2DE0AA",
+  "underwater-theme@@h5-color": "#2FE0C7",
+  "underwater-theme@@h6-color": "#15E075",
+  "underwater-theme@@vault-icon": "Moon"
+}

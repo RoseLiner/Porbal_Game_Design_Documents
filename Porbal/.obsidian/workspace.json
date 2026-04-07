@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "2ee5c8188eb8f797",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2e98644ca82c13c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e715bc1a539cbff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Porbal/Porbal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Porbal"
+            }
+          },
+          {
+            "id": "9c2441f0bbea4a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seed/Hint/Seed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seed"
+            }
+          },
+          {
+            "id": "8c60bb5f219fb32a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seed/Player/Slay the Spire - 怎么优化游戏体验.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Slay the Spire - 怎么优化游戏体验"
+            }
+          },
+          {
+            "id": "18ace87d481e0f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seed/World/对灵感的思考.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "对灵感的思考"
+            }
+          },
+          {
+            "id": "c199dad12f9e8a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "对信息敏感.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "对信息敏感"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e81cb1d38e08c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b48398f62ce475cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39fa644327cd684",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "88d7ca1212a6dc5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "636f9eacfacaccdb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbd00d650fd8a1a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b695ae4f3207513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63fa94ab1496252c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "$ BaseBall/Kitchen Adventure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Kitchen Adventure 的反向链接列表"
+            }
+          },
+          {
+            "id": "f50411e824c87f41",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "127c915552d2c5a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9cd82769a91841cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7dd764406383c4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c199dad12f9e8a08",
+  "lastOpenFiles": [
+    "Seed/World/对灵感的思考.md",
+    "对信息敏感.md",
+    "Seed/World/未命名",
+    "Porbal/Unsolved.md",
+    "Seed/World",
+    "Seed/Hint/Seed.md",
+    "Seed/Hint",
+    "Porbal/BrainStorm.md",
+    "Seed/Player",
+    "Seed/Cata",
+    "Seed",
+    "Porbal",
+    "Seed/Cata/MOBA游戏设计.md",
+    "Seed/Player/Slay the Spire - 怎么优化游戏体验.md",
+    "Porbal/Porbal.md",
+    "Pasted image 20260331222126.png",
+    "$ BaseBall/Unsolved.md",
+    "$ BaseBall/Kitchen Adventure.md",
+    "$ BaseBall/银河棒球侠.md",
+    "(Only One Search).md",
+    "翻译.md",
+    "分清事情的重要程度.md",
+    "高信息密度快速并且去掉冗杂.md",
+    "换种方式思考.md",
+    "技能、武器、地图.md",
+    "将信息归类的能力.md",
+    "教室里的屏幕适合玩什么样的游戏.md",
+    "开关.md",
+    "设计游戏外挂.md",
+    "设计游戏NPC.md",
+    "褪黑素.md",
+    "AI搜索or分类图片视频片段声音素材.md",
+    "Healthcare.md",
+    "Lifestyle.md",
+    "Pasted image 20260213054914.png",
+    "Pasted image 20260306195841.png",
+    "$ BaseBall",
+    "$Tutorial/_o_Mesh Basics",
+    "_o_Mesh Basics"
+  ]
+}
