@@ -1,7 +1,4 @@
-# Main
-### 探索
 
-### 跑酷元素
 # Character
 ## Player
 ### 视角(Camera)
@@ -111,7 +108,17 @@ Bug: 球快速旋转飞起， 人把球挤到墙角，
 Condition:靠近墙跳跃在空中快速捡球扔球
 Bug:人快速飞起
 
-
+# main
+### 玩家可以做什么
+- 扔Ball
+- 扔Skateboard
+- 传送到Ball/Skateboard
+- 移动/跳跃/爬坡
+### Steps
+(观察)光影,声音,地形 -> (规划)找到通关条件,->
+### 跑酷元素
+玩家可以在特定的地方滑行Skateboard感受世界
+(*限制滑行区域防止关卡解谜太容易被解决*)
 
 # New
 ## Curve
