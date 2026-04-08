@@ -4,6 +4,6 @@
 ---持续更新中---
 
 ### 观前提示
-(**本仓库文件格式为Markdown,配合Obsidian软件食用最佳,个人配置在.obsidian文件夹中**)
-
+**本仓库文件格式为Markdown,在GitHub上不能直接显示图片(灵魂),建议配合Markdown软件食用(配合Obsidian软件食用最佳,个人配置在.obsidian文件夹中)**
+**这里也有飞书版本 ↓ **
 
