@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Porbal(设计思路)/_main.md",
+                "file": "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间)-position.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_main"
+              "title": "_Space(空间)-position"
+            }
+          },
+          {
+            "id": "509eab81ad6fcfa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间)-position.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Space(空间)-position"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "$ BaseBall/Kitchen Adventure.md",
+                "file": "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间)-position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Kitchen Adventure 的反向链接列表"
+              "title": "_Space(空间)-position 的反向链接列表"
             }
           },
           {
@@ -181,33 +196,37 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d39fa644327cd684",
+  "active": "509eab81ad6fcfa9",
   "lastOpenFiles": [
-    "Porbal(设计思路)/BrainStorm.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间)-velocity.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间)-position.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Time(时间).md",
+    "img_v3_0210j_0848c7d8-67c3-4b31-a7b4-2fa5b735df0g.jpg",
+    "img_v3_0210j_0ab7da3d-cb88-4a2b-88a4-3d245efc777g.jpg",
+    "Pasted image 20260409192647.png",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Light & Shadow(光影).md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/__Tree.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/__Layer.md",
     "Porbal(设计思路)/Unsolved.md",
+    "Porbal(设计思路)/BrainStorm.md",
     "Porbal(设计思路)/_main.md",
     "Import(别人的观点)/_Eureka moment.md",
+    "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/信息量.md",
+    "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/对信息敏感.md",
     "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/对灵感的思考.md",
     "_NoGameNoLife(创造的种子)/Uniform(拆解)/_Rougelike.md",
     "_NoGameNoLife(创造的种子)/Uniform(拆解)/_MOBA.md",
     "_NoGameNoLife(创造的种子)/Uniform(拆解)/_ARPG.md",
-    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/_Slay the Spire - 一种可能的优化.md",
     "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Reversi(黑白棋).md",
     "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Designer & Player.md",
+    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/_Slay the Spire - 一种可能的优化.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/Story.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/Seed.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/Progress(玩家成长).md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/Duck Typing.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/Balance.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/Audio(声音).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Time(时间).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Light & Shadow(光影).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/__Tree.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/__Layer.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/玩家获取的信息.md",
-    "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/对信息敏感.md",
-    "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/信息量.md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/未命名",
     "temp/img_v3_0210i_11b00147-ab9d-4d8a-8df4-5850c809e4cg.jpg",
     "Import(别人的观点)",
@@ -215,19 +234,15 @@
     "temp/img_v3_0210i_c612a007-9961-4bfc-8195-cf12b8bab61g.jpg",
     "temp/img_v3_0210i_e63afbbf-ce9a-4b3f-9033-81b747bbe51g.jpg",
     "temp/img_v3_0210i_548d90b6-cff9-47ff-b453-c9c176565fag.jpg",
-    "dsfs.md",
     "temp/img_v3_0210i_15c34769-8013-4064-be93-6dea168b67fg.jpg",
     "temp/img_v3_0210i_edf9adc0-651c-43d1-a244-4f8d32b952bg.jpg",
     "temp/img_v3_0210i_823815e9-ed09-43a6-a9af-422ab63d69bg 1.jpg",
-    "temp/img_v3_0210i_823815e9-ed09-43a6-a9af-422ab63d69bg.jpg",
     "Porbal",
     "Seed/World/未命名",
     "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)",
     "_NoGameNoLife(创造的种子)/Hint(思考)",
     "_NoGameNoLife(创造的种子)/Player(作为一个玩家)",
     "_NoGameNoLife(创造的种子)/Uniform(拆解)",
-    "_NoGameNoLife(创造的种子)",
-    "Pasted image 20260331222126.png",
-    "Pasted image 20260213054914.png"
+    "_NoGameNoLife(创造的种子)"
   ]
 }

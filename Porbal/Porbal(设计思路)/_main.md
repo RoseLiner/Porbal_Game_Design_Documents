@@ -1,4 +1,3 @@
-
 # Character
 ## Player
 ### 视角(Camera)
@@ -183,9 +182,3 @@ Baseball~height+复杂地形的Direction
 
 - Keyboard Q   切换状态 (A/B/C)
 - KeyBoard Z   切换主球(BaseBall)
-
-
-
-擅长布置场景，并将场景中的元素设计为游玩内容。
-擅长规划关卡整体布局。
-并掌握利用AI工具辅助编写脚本技巧。

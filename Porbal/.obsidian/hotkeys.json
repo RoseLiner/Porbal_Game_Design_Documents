@@ -192,20 +192,12 @@
       "key": "["
     }
   ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "ArrowRight"
+      "key": "ArrowLeft"
     }
   ],
   "editor:fold-all": [
@@ -223,6 +215,14 @@
         "Alt"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
     }
   ]
 }
