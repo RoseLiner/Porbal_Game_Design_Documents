@@ -6,12 +6,12 @@
   "underwater-theme@@underwater-colors-dark": "rose-pine",
   "underwater-theme@@underwater-colors-light": "everforest-light",
   "underwater-theme@@tokei-plugin": false,
-  "underwater-theme@@h2-color": "#4EC3DE",
-  "underwater-theme@@h1-color": "var(--foam)",
+  "underwater-theme@@h2-color": "#1C75BC",
+  "underwater-theme@@h1-color": "#0D2362",
   "underwater-theme@@inline-title-color": "var(--rose)",
-  "underwater-theme@@h3-color": "#7085E0",
-  "underwater-theme@@h4-color": "#2DE0AA",
-  "underwater-theme@@h5-color": "#2FE0C7",
-  "underwater-theme@@h6-color": "#15E075",
+  "underwater-theme@@h3-color": "#27AAE1",
+  "underwater-theme@@h4-color": "#2DE9E9",
+  "underwater-theme@@h5-color": "#36F39D",
+  "underwater-theme@@h6-color": "#A1CAF3",
   "underwater-theme@@vault-icon": "Moon"
 }

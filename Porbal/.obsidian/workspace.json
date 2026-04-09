@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_NoGameNoLife(创造的种子)/Hint(思考)/Duck Typing.md",
+                "file": "Porbal(设计思路)/_main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duck Typing"
+              "title": "_main"
             }
           }
         ]
@@ -181,37 +181,40 @@
       "bases:新建数据库": false
     }
   },
-  "active": "d92658c3a8323cc0",
+  "active": "d39fa644327cd684",
   "lastOpenFiles": [
-    "_NoGameNoLife(创造的种子)/Uniform(拆解)/Rougelike.md",
-    "_NoGameNoLife(创造的种子)/Uniform(拆解)/MOBA.md",
-    "_NoGameNoLife(创造的种子)/Uniform(拆解)/ARPG.md",
-    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Reversi(黑白棋).md",
-    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Slay the Spire - 一种可能的优化.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Time(时间).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/Balance.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/Duck Typing.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/Seed.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/Story.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/玩家获取的信息.md",
-    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Designer & Player.md",
+    "Porbal(设计思路)/BrainStorm.md",
+    "Porbal(设计思路)/Unsolved.md",
+    "Porbal(设计思路)/_main.md",
+    "Import(别人的观点)/_Eureka moment.md",
     "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/对灵感的思考.md",
+    "_NoGameNoLife(创造的种子)/Uniform(拆解)/_Rougelike.md",
+    "_NoGameNoLife(创造的种子)/Uniform(拆解)/_MOBA.md",
+    "_NoGameNoLife(创造的种子)/Uniform(拆解)/_ARPG.md",
+    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/_Slay the Spire - 一种可能的优化.md",
+    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Reversi(黑白棋).md",
+    "_NoGameNoLife(创造的种子)/Player(作为一个玩家)/Designer & Player.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/Story.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/Seed.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/Progress(玩家成长).md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/Duck Typing.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/Balance.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/Audio(声音).md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Time(时间).md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Space(空间).md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/_Light & Shadow(光影).md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/__Tree.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/__Layer.md",
+    "_NoGameNoLife(创造的种子)/Hint(思考)/玩家获取的信息.md",
     "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/对信息敏感.md",
     "_NoGameNoLife(创造的种子)/World(游戏之外,策划之内)/信息量.md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Light & Shadow(光影).md",
-    "_NoGameNoLife(创造的种子)/Hint(思考)/_Audio(声音).md",
     "_NoGameNoLife(创造的种子)/Hint(思考)/未命名",
-    "Import(别人的观点)/Eureka moment.md",
     "temp/img_v3_0210i_11b00147-ab9d-4d8a-8df4-5850c809e4cg.jpg",
     "Import(别人的观点)",
     "temp",
     "temp/img_v3_0210i_c612a007-9961-4bfc-8195-cf12b8bab61g.jpg",
     "temp/img_v3_0210i_e63afbbf-ce9a-4b3f-9033-81b747bbe51g.jpg",
     "temp/img_v3_0210i_548d90b6-cff9-47ff-b453-c9c176565fag.jpg",
-    "Porbal(来时路)/_main.md",
-    "Porbal(来时路)/BrainStorm.md",
-    "Porbal(来时路)/Unsolved.md",
     "dsfs.md",
     "temp/img_v3_0210i_15c34769-8013-4064-be93-6dea168b67fg.jpg",
     "temp/img_v3_0210i_edf9adc0-651c-43d1-a244-4f8d32b952bg.jpg",
@@ -225,9 +228,6 @@
     "_NoGameNoLife(创造的种子)/Uniform(拆解)",
     "_NoGameNoLife(创造的种子)",
     "Pasted image 20260331222126.png",
-    "$ BaseBall/Unsolved.md",
-    "$ BaseBall/Kitchen Adventure.md",
-    "$ BaseBall/银河棒球侠.md",
     "Pasted image 20260213054914.png"
   ]
 }
